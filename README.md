@@ -107,7 +107,7 @@ Some insights derived from the dataset:
 ![Category Sales](CatogarySales.jpeg)
 
 ### Top Customers
-![Top Customers](a/Top_customer.png)
+![Top Customers](TopCustomers.jpeg)
 
 ---
 
