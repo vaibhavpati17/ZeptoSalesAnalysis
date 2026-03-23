@@ -104,7 +104,7 @@ Some insights derived from the dataset:
 ![KPI Analysis](a/KPI_analysis.png)
 
 ### Category Sales
-![Category Sales](a/category_sale.png)
+![Category Sales](CatogarySales.jpeg)
 
 ### Top Customers
 ![Top Customers](a/Top_customer.png)
