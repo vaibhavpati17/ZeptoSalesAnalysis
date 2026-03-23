@@ -101,7 +101,7 @@ Some insights derived from the dataset:
 ![Dataset Preview](a/Dataset_preview.png)
 
 ### KPI Analysis
-![KPI Analysis](a/KPI_analysis.png)
+![KPI Analysis](KPIAnalyis.jpeg)
 
 ### Category Sales
 ![Category Sales](CatogarySales.jpeg)
