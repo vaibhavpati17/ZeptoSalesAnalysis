@@ -1,4 +1,4 @@
-# 📊 SQL Retail Sales Analysis
+# 📊 SQL Zepto Sales Analysis
 
 ![Zepto Sales Analysis](projectimg.png)
 
@@ -98,7 +98,7 @@ Some insights derived from the dataset:
 ## 📷 Project Screenshots
 
 ### Dataset Preview
-![Dataset Preview](a/Dataset_preview.png)
+![Dataset Preview](Datasetpreview.png)
 
 ### KPI Analysis
 ![KPI Analysis](KPIAnalyis.jpeg)
