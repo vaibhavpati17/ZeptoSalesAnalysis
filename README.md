@@ -1,6 +1,6 @@
 # 📊 SQL Retail Sales Analysis
 
-![Zepto Sales Analysis](a/project_img.png)
+![Zepto Sales Analysis](projectimg.png)
 
 ## 📌 Project Overview
 This project analyzes a zepto sales dataset using **SQL** to uncover business insights such as sales trends, customer behavior, and product performance.
